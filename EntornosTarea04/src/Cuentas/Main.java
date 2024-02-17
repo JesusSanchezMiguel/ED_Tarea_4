@@ -6,7 +6,7 @@ public class Main {
         CCuenta cuenta1 = crearCuenta();
 
        
-         operativa_cuenta(cuenta1, 7000);
+         operativa_cuenta(cuenta1, 8000);
     }
 
     public static CCuenta crearCuenta() {
